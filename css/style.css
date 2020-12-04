@@ -274,19 +274,19 @@ h3{
 	position: absolute;
 	border:10px double white;
 		height: 200px;
-		width:300px;
+		width:200px;
 		box-shadow: 1px 2px 3px 2px black;
 	margin-top: 200px;
-	margin-left: -15px;
+	margin-left: -10px;
 	}
 	.two{display:block;
 	     position:absolute;
 	    border:10px double white;
 	    box-shadow: 1px 2px 3px 2px black;
 		height:200px;
-		width:300px;
+		width:200px;
 		margin-top: 400px;
-		margin-left: -15px;
+		margin-left: -10px;
 
 	}
 	.image{
