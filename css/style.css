@@ -110,12 +110,8 @@ text-align:center;
    border:2px solid white;
    width:100%;
    margin:0;
-
    padding:2%;
    font-family: verdana;
-   text-align: center;
-
-
 }
 .contact ul{
 	display: flex;
@@ -295,8 +291,8 @@ h3{
 		margin-right: 45px;
 	}
 	h1{
-		font-size: 25px;
-		margin-left:20px;
+		font-size: 30px;
+		float:right;
 	}
 	.content{
 		text-align:leftt;
