@@ -99,7 +99,7 @@ text-align:center;
 		width:100%;
 		height: 110px;
 		background-color: black;
-		padding-left: 20px;
+		padding: 20px;
 	}
 	hr{
 		background-color:white;	
@@ -111,12 +111,9 @@ text-align:center;
    border:2px solid white;
    width:100%;
    margin:0;
-
    padding:2%;
    font-family: verdana;
-  	  text-align: justify-all;
-
-
+    text-align: justify-all;
 }
 .contact ul{
 	display: flex;
