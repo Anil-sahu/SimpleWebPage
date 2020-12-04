@@ -249,6 +249,9 @@ h3{
 	width:100%;
 	background:black;
 }
+	.header{
+		text-align:right;
+		margin-right:20px;
 #footer{
 	height:50%;
 	width: 90%;
