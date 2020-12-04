@@ -112,6 +112,7 @@ text-align:center;
    margin:0;
    padding:2%;
    font-family: verdana;
+	text-align:center;
 }
 .contact ul{
 	display: flex;
@@ -270,7 +271,7 @@ h3{
 	position: absolute;
 	border:10px double white;
 		height: 200px;
-		width:200px;
+		width:300px;
 		box-shadow: 1px 2px 3px 2px black;
 	margin-top: 200px;
 	margin-left: -10px;
@@ -280,7 +281,7 @@ h3{
 	    border:10px double white;
 	    box-shadow: 1px 2px 3px 2px black;
 		height:200px;
-		width:200px;
+		width:300px;
 		margin-top: 400px;
 		margin-left: -10px;
 
@@ -307,8 +308,8 @@ h5{
 .qua{
 	color:green;
 	margin-top:-10%;
-	margin-left: 20%;
-	margin-right:20%;
+	margin-left: 10%;
+	margin-right:10%;
 	margin-bottom: 5%;
 	text-align: left;
 	background-color: black;
