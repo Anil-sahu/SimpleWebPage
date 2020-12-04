@@ -250,6 +250,7 @@ h3{
 }
 #footer{
 	height:50%;
+	width:80%;
 }
 ul li{
 	display: block;
@@ -295,7 +296,10 @@ h3{
 	}
 	h1{
 		font-size: 25px;
+		margin-left:20px;
 	}
+	.content{
+		text-align:leftt;
 
 h5{
 	font-family: verdana;
