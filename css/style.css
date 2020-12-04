@@ -271,7 +271,7 @@ h3{
 	position: absolute;
 	border:10px double white;
 		height: 200px;
-		width:100%;
+		width:90%;
 		box-shadow: 1px 2px 3px 2px black;
 	margin-top: 200px;
 	margin-left: -10px;
@@ -281,15 +281,16 @@ h3{
 	    border:10px double white;
 	    box-shadow: 1px 2px 3px 2px black;
 		height:200px;
-		width:100%;
+		width:90%;
 		margin-top: 400px;
 		margin-left: -10px;
 
 	}
 	.image{
-		margin-top: 460px;
-		margin-left: 45px;
-		margin-right: 45px;
+		width:90%;
+		margin-top: 470px;
+		margin-left: 5%;
+		margin-right:5%;
 	}
 	h1{
 		font-size: 30px;
